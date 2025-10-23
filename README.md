@@ -8,7 +8,7 @@ Repositório de imagens para projetos PADevs School.
 images/
 ├── logo-padevs.svg          # Logo PADevs
 ├── logo.svg                 # Logo alternativo
-└── Perfil LinkedIn.svg      # Perfil LinkedIn (SVG)
+└── perfil-linkedin.svg      # Perfil LinkedIn (SVG)
 ```
 
 ## 🔗 Como usar
@@ -48,7 +48,7 @@ background-image: url("https://raw.githubusercontent.com/PADevs-School/perfil/ma
 | ------------------------ | ---- | ---------------------------------- |
 | `logo-padevs.svg`        | SVG  | Logo principal PADevs              |
 | `logo.svg`               | SVG  | Logo alternativo                   |
-| `Perfil LinkedIn.svg`    | SVG  | Imagem de perfil LinkedIn vetorial |
+| `perfil-linkedin.svg`    | SVG  | Imagem de perfil LinkedIn vetorial |
 
 ---
 
