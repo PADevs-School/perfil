@@ -23,28 +23,34 @@ https://raw.githubusercontent.com/PADevs-School/perfil/main/images/nome-da-image
 ### Exemplos de uso:
 
 **HTML:**
+
 ```html
-<img src="https://raw.githubusercontent.com/PADevs-School/perfil/main/images/logo-padevs.svg" alt="Logo PADevs">
+<img
+  src="https://raw.githubusercontent.com/PADevs-School/perfil/main/images/logo-padevs.svg"
+  alt="Logo PADevs"
+/>
 ```
 
 **Markdown:**
+
 ```markdown
 ![Logo PADevs](https://raw.githubusercontent.com/PADevs-School/perfil/main/images/logo-padevs.svg)
 ```
 
 **CSS:**
+
 ```css
-background-image: url('https://raw.githubusercontent.com/PADevs-School/perfil/main/images/logo-padevs.svg');
+background-image: url("https://raw.githubusercontent.com/PADevs-School/perfil/main/images/logo-padevs.svg");
 ```
 
 ## 📋 Lista de imagens disponíveis
 
-| Arquivo | Tipo | Descrição |
-|---------|------|-----------|
-| `logo-padevs.svg` | SVG | Logo principal PADevs |
-| `logo.svg` | SVG | Logo alternativo |
-| `perfil-linkedin.png` | PNG | Imagem de perfil LinkedIn |
-| `perfil-linkedin.svg` | SVG | Imagem de perfil LinkedIn vetorial |
+| Arquivo               | Tipo | Descrição                          |
+| --------------------- | ---- | ---------------------------------- |
+| `logo-padevs.svg`     | SVG  | Logo principal PADevs              |
+| `logo.svg`            | SVG  | Logo alternativo                   |
+| `perfil-linkedin.png` | PNG  | Imagem de perfil LinkedIn          |
+| `perfil-linkedin.svg` | SVG  | Imagem de perfil LinkedIn vetorial |
 
 ---
 
